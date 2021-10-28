@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **POS App**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **Any Project**
 
