@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://dnbusiness.000webhostapp.com/](https://dnbusiness.000webhostapp.com/)
 
-- ⚡ Fun fact **Travelling or Playing Video Games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dulanganimesha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulanganimesha1" height="30" width="40" /></a>
