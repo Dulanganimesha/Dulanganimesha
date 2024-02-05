@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulanga Nimesha De Silva</h1>
-<h3 align="center">I am a software engineer. I have been developing professionally for 1 year. Most of my experience utilized with agile development process. </h3>
+<h3 align="center">I am a software engineer. I have been developing professionally for 3 year. Most of my experience utilized with agile development process. </h3>
 
 - 🔭 I’m currently working on ****
 
